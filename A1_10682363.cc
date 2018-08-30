@@ -5,11 +5,11 @@ using namespace std;
 int main()
 {
     int i,num;
-    cout<<"Enter any num: ";
+    cout<<"Enter any number: ";
     cin>>num;
     if(num==1)
     {
-        cout<<"Smallest prime num is 2";
+        cout<<"Smallest prime number is 2";
     }
     for(i=2;i<num;i++)
     {
